@@ -2,6 +2,16 @@
 
 Multi-microservice backend architecture for Chart AI application using Poetry workspaces and FastAPI.
 
+## 🚀 Quick Start
+
+**New to the project?** See [QUICKSTART.md](QUICKSTART.md) for a 5-minute setup guide!
+
+**Need detailed instructions?** See [SETUP_GUIDE.md](SETUP_GUIDE.md) for comprehensive setup documentation including:
+- Poetry and venv setup options
+- Troubleshooting guide
+- Development workflow
+- API testing examples
+
 ## Architecture
 
 This project uses a microservices architecture with the following services:
